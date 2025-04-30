@@ -4,7 +4,7 @@ A simple **Todo List App** built with **HTML**, **CSS**, and **JavaScript**. Thi
 
 ## 🚀 Live Demo
 
-Check out the live version of the app here: [Todo List App](https://asrakumari.github.io/todp-list-app/)
+Check out the live version of the app here: [Todo List App](https://asrakumari.github.io/todo-list-app/)
 
 ## 💡 Features
 
@@ -21,4 +21,4 @@ Check out the live version of the app here: [Todo List App](https://asrakumari.g
 - **CSS**: Styling and layout, including Glassmorphism.
 - **JavaScript**: Functionality for adding, completing, and deleting tasks.
 
-Made with ❤️ by [ASRA KUMARI](https://github.com/yourusername).
+Made with ❤️ by [ASRA KUMARI](https://github.com/Asrakumari).
