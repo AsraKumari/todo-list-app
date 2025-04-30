@@ -68,7 +68,8 @@ function renderTodos() {
 
   filteredTodos.forEach((todo, index) => {
     const li = document.createElement('li');
-    li.dataset.index = todos.indexOf(todo);
+    li.dataset.index = index;
+
     li.classList.toggle('completed', todo.completed);
     li.innerHTML = `
       <span>${todo.text}</span>
